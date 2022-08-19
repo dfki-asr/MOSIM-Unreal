@@ -1,0 +1,3 @@
+[submodule "Demos/ue4_demo/Plugins/UE4_MOSIM"]
+	path = Demos/ue4_demo/Plugins/UE4_MOSIM
+	url = ../MMI-UnrealPlugin.git
