@@ -10,6 +10,6 @@ public class UE4DemoEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "UE4Demo", "MMIScene"} );
+		ExtraModuleNames.AddRange( new string[] { "UE4Demo", "MMIFramework", "MMIScene" } );
 	}
 }
